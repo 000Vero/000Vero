@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @000Vero
 - 👀 I’m interested in full stack applications
 - 🌱 I’m currently learning NASM
-- 😄 Pronouns: she/her
+- 😄 Pronouns: Refer to me as person
 - ⚡ Fun fact: I love apples
 
 <!---
